@@ -13,4 +13,14 @@
 
 For reference of all the end-points download: [https://github.com/ummeTayaba/taskManagment/blob/main/Taskmanager-API.postman_collection.json]() and import to Postman
 
+Two users are auto created on application startup:
+- User 1:
+  - Email: "testUser1@gmail.com"
+  - Password: "adminpassword123"
+  - Role: "ROLE_ADMIN"
+- User 2:
+  - Email: "testUser2@gmail.com"
+  - Password: "password123"
+  - Role: "ROLE_USER"
 
+                                           

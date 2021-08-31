@@ -11,3 +11,6 @@
 - Token Uri: api/v1/token
 
 
+For reference of all the end-points download: [https://github.com/ummeTayaba/taskManagment/blob/main/Taskmanager-API.postman_collection.json]() and import to Postman
+
+
